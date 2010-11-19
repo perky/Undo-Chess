@@ -3,7 +3,7 @@
 require 'constants'
 require 'udp'
 require 'gamestate'
-require 'goo.goo'
+require 'goo/goo'
 require 'anim.anim'
 require 'menu'
 require 'chess'
